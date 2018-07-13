@@ -12,6 +12,6 @@ function linkSelector(){
   return $('#box4.box5 a')
 }
 
-function imageSelctor(){
-  return $('img[alt="cat sleeping]')
-}
+// function imageSelctor(){
+//   return $('img[alt="cat sleeping]')
+// }
