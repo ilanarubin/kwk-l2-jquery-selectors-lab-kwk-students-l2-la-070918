@@ -9,5 +9,5 @@ function liInOlSelector(){
 }
 
 function linkSelector(){
-  return $('div.box5 ')
+  return $('div.box5 a')
 }
